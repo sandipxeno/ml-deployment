@@ -1,0 +1,4 @@
+flask
+requests
+torch  # If using PyTorch
+tensorflow  # If using TensorFlow
